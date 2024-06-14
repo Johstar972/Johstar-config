@@ -12,7 +12,7 @@ export default [
 
     rules: {
       'no-debugger': 'warn',
-      'no-console': 'error',
+      'no-console': 'warn',
     },
   },
   {
